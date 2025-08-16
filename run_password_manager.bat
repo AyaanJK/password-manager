@@ -17,7 +17,7 @@ pip install cryptography pyotp qrcode[pil] >nul 2>&1
 
 REM Run the password manager
 echo.
-python password_manager.py
+python password-manager.py
 
 echo.
 echo Password Manager has closed.
